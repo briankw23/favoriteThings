@@ -15,7 +15,7 @@ namespace favoriteThings.Things
                 Console.WriteLine("Great, you got a good night of rest!");
             } else
             {
-                Console.WriteLine("Get to bed early, bruh. Not enough sleep");
+                Console.WriteLine("Get to bed early, bruh. Not enough sleep!");
             }
         }
     }

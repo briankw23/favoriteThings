@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\favoriteThings\favoriteThings\bin\Debug\netcoreapp2.1\favoriteThings.deps.json
+C:\Users\student\source\repos\favoriteThings\favoriteThings\bin\Debug\netcoreapp2.1\favoriteThings.runtimeconfig.json
+C:\Users\student\source\repos\favoriteThings\favoriteThings\bin\Debug\netcoreapp2.1\favoriteThings.runtimeconfig.dev.json
+C:\Users\student\source\repos\favoriteThings\favoriteThings\bin\Debug\netcoreapp2.1\favoriteThings.dll
+C:\Users\student\source\repos\favoriteThings\favoriteThings\bin\Debug\netcoreapp2.1\favoriteThings.pdb
+C:\Users\student\source\repos\favoriteThings\favoriteThings\obj\Debug\netcoreapp2.1\favoriteThings.csprojAssemblyReference.cache
+C:\Users\student\source\repos\favoriteThings\favoriteThings\obj\Debug\netcoreapp2.1\favoriteThings.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\favoriteThings\favoriteThings\obj\Debug\netcoreapp2.1\favoriteThings.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\favoriteThings\favoriteThings\obj\Debug\netcoreapp2.1\favoriteThings.AssemblyInfo.cs
+C:\Users\student\source\repos\favoriteThings\favoriteThings\obj\Debug\netcoreapp2.1\favoriteThings.dll
+C:\Users\student\source\repos\favoriteThings\favoriteThings\obj\Debug\netcoreapp2.1\favoriteThings.pdb
